@@ -17,10 +17,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/APIchainingDemo</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>753aad0c-92a9-415a-b39e-c6fedac9725f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/API Test case</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
